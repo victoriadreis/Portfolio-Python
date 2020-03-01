@@ -11,4 +11,5 @@ Fonte: https://www.alura.com.br/conteudo/geopandas-dados-geoespaciais
 Aprensetar o tramento e manipulação de dados georreferenciados atrvés do GeoPandas.Para isso foram adotados dados das seguintes fontes:
 
 > Alura cursos online (aluguel de imóveis)
+
 > IBEGE (shapefiles e dados demograficos
