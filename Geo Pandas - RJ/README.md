@@ -12,4 +12,4 @@ Aprensetar o tramento e manipulação de dados georreferenciados atrvés do GeoP
 
 > Alura cursos online (aluguel de imóveis)
 
-> IBEGE (shapefiles e dados demograficos
+> IBEGE (shapefiles e dados demograficos)
