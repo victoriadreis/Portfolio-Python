@@ -1,8 +1,6 @@
 # Ciência de dados
 
-
 Origem: Wikipédia, a enciclopédia livre.
-
 
 Saltar para a navegaçãoSaltar para a pesquisa
 Ciência de dados (em inglês: *data science*) é uma área interdisciplinar voltada para o estudo e a análise de dados econômicos, financeiros 
@@ -12,6 +10,9 @@ alguns fatores como o surgimento e popularização de grandes bancos de dados e 
 Cientistas de Dados podem trabalhar no setor privado, por exemplo, transformando grande quantidade de dados brutos em insights de negócios,
 auxiliando empresas em tomadas de decisões para atingir melhores resultados ou na academia e terceiro setor como pesquisadores 
 quantitativos interdisciplinares
+
+## Geoprocessamento
+O geoprocessamento é o processamento informatizado de dados georreferenciados. Utiliza programas de computador que permitem o uso de informações cartográficas (mapas, cartas topográficas e plantas) e informações a que se possa associar coordenadas desses mapas, cartas ou plantas. Pode ser utilizado para diversas aplicações.
 
 ## Mineração de texto
 Mineração de texto, conhecida também como mineração de dados textuais e semelhante à análise textual, refere-se ao processo de obtenção de informações importantes de um texto. Informações importantes são obtidas normalmente pela elaboração de padrões e tendências através de meios como o padrão estatístico de aprendizagem. Geralmente a mineração de texto envolve o processo de estruturação do texto de entrada (frequentemente análise, junto com a adição de algumas características linguísticas derivadas e com a retirada de outras, e com a subsequente inserção em um banco de dados), de derivação de padrões dentro da estrutura de dados e, por fim, de avaliação e interpretação do resultado. Geralmente, “importante” em mineração de texto refere-se a algumas combinações de relevância, originalidade e interesse. Tarefas típicas de mineração de texto incluem categorização e agrupamento de texto, extração de conceito/entidade, produção de taxonomias granulares, análise de sentimentos, resumo de documentos e modelagem de relações entre entidades (ex., aprender relações entre entidades nomeadas).
