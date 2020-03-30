@@ -6,6 +6,7 @@ Saltar para a navegaçãoSaltar para a pesquisa
 Ciência de dados (em inglês: *data science*) é uma área interdisciplinar voltada para o estudo e a análise de dados econômicos, financeiros e sociais, estruturados e não-estruturados, que visa a extração de conhecimento, detecção de padrões e/ou obtenção de insights para possíveis tomadas de decisão. 
 ## 1.Geoprocessamento
 O geoprocessamento é o processamento informatizado de dados georreferenciados. Utiliza programas de computador que permitem o uso de informações cartográficas (mapas, cartas topográficas e plantas) e informações a que se possa associar coordenadas desses mapas, cartas ou plantas. Pode ser utilizado para diversas aplicações.
+
 ![](https://github.com/FelipeRamosOliveira/Auxiliares/blob/master/world_offices.png)
 
 ## 2.Mineração de texto
@@ -15,3 +16,5 @@ Mineração de texto, conhecida também como mineração de dados textuais e sem
 
 ## 3.Visão computacional 
 Visão computacional é a ciência e tecnologia das máquinas que enxergam.Ela desenvolve teoria e tecnologia para a construção de sistemas artificiais que obtém informação de imagens ou quaisquer dados multidimensionais. Exemplos de aplicações incluem o controle de processos (como robôs industriais ou veículos autônomos), detecção de eventos, organização de informação, modelagem de objetos ou ambientes e interação (atrelado a interação humano-computador).
+
+![](https://github.com/FelipeRamosOliveira/Auxiliares/blob/master/visao.gif)
